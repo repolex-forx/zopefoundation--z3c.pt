@@ -1,0 +1,11 @@
+{
+  "org": "zopefoundation",
+  "repo": "z3c.pt",
+  "versions": [
+    {
+      "commit": "33396926cb9ba9a014318883e6f4f9de4ccc6b04",
+      "tag": "",
+      "parsed_at": "2026-11-02T21:40:11.639914+00:00"
+    }
+  ]
+}
